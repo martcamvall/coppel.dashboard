@@ -1,30 +1,30 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "searchclient.coppel.io",
-    "parent": 2,
+    "parent": "2",
     "size": 3938
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "recruitment-sys-api",
-    "parent": 4,
+    "parent": "4",
      "size": 3938
   },
    {
-    "id": 3,
+    "id": "3",
     "name": "recruitment2-sys-api",
-    "parent": 4,
+    "parent": "4",
      "size": 3938
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "recruitment-proc-api",
-    "parent": 5,
+    "parent": "5",
     "size": 3938
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "recruitment-exp-api",
     "size": 3938
   }
