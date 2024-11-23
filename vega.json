@@ -1,19 +1,16 @@
- [
-		 {
-			"id": 1,
-			"name": "2457337e-c73a-49df-a415-34c8eab16ccf",
-			"size": 7
-		 },	
-		 {
-			"id": 2,
-			"name": "2127449e-ee99-4479-9254-4e4b2ad56b91",
-			"parent": 1,
-			"size": 7
-		},
-		{
-			"id": 3
-			"name": "39f6031b-b7ca-481b-8be0-e943cbadf355",
-			"parent": 1,
-			"size": 7
-		}
+[
+  {
+    "id": 1,
+    "name": "flare"
+  },
+  {
+    "id": 2,
+    "name": "analytics",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "cluster",
+    "parent": 2
+  }
 ]
