@@ -1,22 +1,25 @@
 [
   {
-    "id": "1",
-    "name": "flare"
+    "id": 1,
+    "name": "searchclient.coppel.io",
+    "parent": 2,
+    "size": 3938
   },
   {
-    "id": "2",
-    "name": "analytics",
-    "parent": "1"
+    "id": 2,
+    "name": "recruitment-sys-api",
+    "parent": 3,
+     "size": 3938
   },
   {
-    "id": "3",
-    "name": "cluster",
-    "parent": "2"
+    "id": 3,
+    "name": "recruitment-proc-api",
+    "parent": 4,
+    "size": 3938
   },
   {
-    "id": "4",
-    "name": "AgglomerativeCluster",
-    "parent": "3",
+    "id": 4,
+    "name": "recruitment-exp-api",
     "size": 3938
   }
 ]
