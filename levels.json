@@ -1,0 +1,35 @@
+[
+    {
+        "level1": "Esperanto HCM",
+        "person": "Esperanto HCM",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto HC",
+        "level2": "Worker Info Exp API",
+        "person": "Worker Info Exp API",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto HC",
+        "level2": "Worker Info Exp API",
+        "level3": "Monitor HCM Exp API",
+        "person": "Monitor HCM Exp API",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto HC",
+        "level2": "Worker Info Exp API",
+        "level3": "Worker Info Proc API",
+        "person": "Worker Info Proc API",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto HC",
+        "level2": "Worker Info Exp API",
+        "level3": "Worker Info Proc API",
+        "level4": "Oracle HCM Sys API",
+        "person": "Oracle HCM Sys API",
+        "kpi": 50
+    }
+]
