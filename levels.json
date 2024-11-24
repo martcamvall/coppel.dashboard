@@ -1,39 +1,72 @@
 [
-  {
-    "level1": "Esperanto",
-    "person": "Esperanto",
-    "kpi": 50
-  },
-  {
-    "level1": "Esperanto",
-    "level2": "searchclient.coppel.io",
-    "person": "searchclient.coppel.io",
-    "kpi": 50
-  },
-  {
-    "level1": "Esperanto",
-    "level2": "worker-drop-proc-api",
-    "person": "worker-drop-proc-api",
-    "kpi": 50
-  },
-  {
-    "level1": "Esperanto",
-    "level2": "worker-drop-proc-api",
-    "level3": "worker-drop-sys-api",
-    "person": "worker-drop-sys-api",
-    "kpi": 50
-  },
-  {
-    "level1": "Esperanto",
-    "level2": "worker-information-exp-api",
-    "person": "worker-information-exp-api",
-    "kpi": 50
-  },
-  {
-    "level1": "Esperanto",
-    "level2": "worker-information-exp-api",
-    "level3": "monitor-hcm-exp-api",
-    "person": "monitor-hcm-exp-api",
-    "kpi": 50
-  }
+    {
+        "level1": "Esperanto",
+        "person": "Esperanto",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "worker-information-exp-api",
+        "person": "worker-information-exp-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "worker-information-exp-api",
+        "level3": "worker-drop-proc-api",
+        "person": "worker-drop-proc-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "worker-information-exp-api",
+        "level3": "worker-drop-proc-api",
+        "level4": "worker-drop-sys-api",
+        "person": "worker-drop-sys-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "worker-information-exp-api",
+        "level3": "worker-register-proc-api",
+        "person": "worker-register-proc-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "worker-information-exp-api",
+        "level3": "worker-register-proc-api",
+        "level4": "worker-register-sys-api",
+        "person": "worker-register-sys-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "worker-information-exp-api",
+        "level3": "worker-register-proc-api",
+        "level4": "core-catalogs-sys-api",
+        "person": "core-catalogs-sys-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "monitor-hcm-exp-api",
+        "person": "monitor-hcm-exp-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "monitor-hcm-exp-api",
+        "level3": "worker-register-proc-api",
+        "person": "worker-register-proc-api",
+        "kpi": 50
+    },
+    {
+        "level1": "Esperanto",
+        "level2": "monitor-hcm-exp-api",
+        "level3": "worker-register-proc-api",
+        "level4": "worker-register-sys-api",
+        "person": "worker-register-sys-api",
+        "kpi": 50
+    }
 ]
