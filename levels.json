@@ -1,35 +1,29 @@
 [
-    {
-        "level1": "Esperanto HCM",
-        "person": "Esperanto HCM",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto HCM",
-        "level2": "Worker Info Exp API",
-        "person": "Worker Info Exp API",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto HCM",
-        "level2": "Worker Info Exp API",
-        "level3": "Monitor HCM Exp API",
-        "person": "Monitor HCM Exp API",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto HCM",
-        "level2": "Worker Info Exp API",
-        "level3": "Worker Info Proc API",
-        "person": "Worker Info Proc API",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto HCM",
-        "level2": "Worker Info Exp API",
-        "level3": "Worker Info Proc API",
-        "level4": "Oracle HCM Sys API",
-        "person": "Oracle HCM Sys API",
-        "kpi": 50
-    }
+  {
+    "level1": "searchclient.coppel.io",
+    "person": "searchclient.coppel.io",
+    "kpi": 50
+  },
+  {
+    "level1": "worker-drop-proc-api",
+    "person": "worker-drop-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "worker-drop-proc-api",
+    "level2": "worker-drop-sys-api",
+    "person": "worker-drop-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "worker-information-exp-api",
+    "person": "worker-information-exp-api",
+    "kpi": 50
+  },
+  {
+    "level1": "worker-information-exp-api",
+    "level2": "monitor-hcm-exp-api",
+    "person": "monitor-hcm-exp-api",
+    "kpi": 50
+  }
 ]
