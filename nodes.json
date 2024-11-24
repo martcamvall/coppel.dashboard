@@ -1,0 +1,6 @@
+[
+  {"id": "1", "name": "Root"},
+  {"id": "2", "name": "Child A"},
+  {"id": "3", "name": "Child B"},
+  {"id": "4", "name": "Shared Child"}
+]
