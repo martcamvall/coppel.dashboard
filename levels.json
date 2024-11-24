@@ -1,72 +1,235 @@
 [
     {
-        "level1": "Esperanto",
-        "person": "Esperanto",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "worker-information-exp-api",
-        "person": "worker-information-exp-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "worker-information-exp-api",
-        "level3": "worker-drop-proc-api",
-        "person": "worker-drop-proc-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "worker-information-exp-api",
-        "level3": "worker-drop-proc-api",
-        "level4": "worker-drop-sys-api",
-        "person": "worker-drop-sys-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "worker-information-exp-api",
-        "level3": "worker-register-proc-api",
-        "person": "worker-register-proc-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "worker-information-exp-api",
-        "level3": "worker-register-proc-api",
-        "level4": "worker-register-sys-api",
-        "person": "worker-register-sys-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "worker-information-exp-api",
-        "level3": "worker-register-proc-api",
-        "level4": "core-catalogs-sys-api",
-        "person": "core-catalogs-sys-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "monitor-hcm-exp-api",
-        "person": "monitor-hcm-exp-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "monitor-hcm-exp-api",
-        "level3": "worker-register-proc-api",
-        "person": "worker-register-proc-api",
-        "kpi": 50
-    },
-    {
-        "level1": "Esperanto",
-        "level2": "monitor-hcm-exp-api",
-        "level3": "worker-register-proc-api",
-        "level4": "worker-register-sys-api",
-        "person": "worker-register-sys-api",
-        "kpi": 50
-    }
+    "level1": "Esperanto",
+    "person": "Esperanto",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "benefits-compensation-exp-api",
+    "person": "benefits-compensation-exp-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "benefits-compensation-exp-api",
+    "level3": "benefits-compensation-proc-api",
+    "person": "benefits-compensation-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "benefits-compensation-exp-api",
+    "level3": "benefits-compensation-proc-api",
+    "level4": "benefits-compensation-sys-api",
+    "person": "benefits-compensation-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "benefits-compensation-exp-api",
+    "level3": "benefits-compensation-proc-api",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-information-exp-api",
+    "person": "worker-information-exp-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-information-exp-api",
+    "level3": "worker-information-proc-api",
+    "person": "worker-information-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-information-exp-api",
+    "level3": "worker-information-proc-api",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-information-exp-api",
+    "level3": "worker-information-proc-api",
+    "level4": "worker-information-sys-api",
+    "person": "worker-information-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "monitor-hcm-exp-api",
+    "person": "monitor-hcm-exp-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "core-catalogs-hcm-exp-api-impl",
+    "person": "core-catalogs-hcm-exp-api-impl",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "core-catalogs-hcm-exp-api-impl",
+    "level3": "core-catalogs-hcm-proc-api-impl",
+    "person": "core-catalogs-hcm-proc-api-impl",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "core-catalogs-hcm-exp-api-impl",
+    "level3": "core-catalogs-hcm-proc-api-impl",
+    "level4": "core-catalogs-hcm-sys-api-impl",
+    "person": "core-catalogs-hcm-sys-api-impl",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "core-catalogs-hcm-exp-api-impl",
+    "level3": "core-catalogs-hcm-proc-api-impl",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "recruitment-exp-api",
+    "person": "recruitment-exp-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "recruitment-exp-api",
+    "level3": "recruitment-proc-api",
+    "person": "recruitment-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "recruitment-exp-api",
+    "level3": "recruitment-proc-api",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "recruitment-exp-api",
+    "level3": "recruitment-proc-api",
+    "level4": "recruitment-sys-api",
+    "person": "recruitment-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "person": "worker-core-exp-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-asgmt-changes-proc-api",
+    "person": "worker-asgmt-changes-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-asgmt-changes-proc-api",
+    "level4": "worker-asgmt-changes-sys-api",
+    "person": "worker-asgmt-changes-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-asgmt-changes-proc-api",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-asgmt-changes-proc-api",
+    "level4": "worker-register-sys-api",
+    "person": "worker-register-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-drop-proc-api",
+    "person": "worker-drop-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-drop-proc-api",
+    "level4": "worker-drop-sys-api",
+    "person": "worker-drop-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-drop-proc-api",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-register-proc-api",
+    "person": "worker-register-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-register-proc-api",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-register-proc-api",
+    "level4": "worker-register-sys-api",
+    "person": "worker-register-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-asgmt-cancelations-proc-api",
+    "person": "worker-asgmt-cancelations-proc-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-asgmt-cancelations-proc-api",
+    "level4": "worker-asgmt-cancelations-sys-api",
+    "person": "worker-asgmt-cancelations-sys-api",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+    "level2": "worker-core-exp-api",
+    "level3": "worker-asgmt-cancelations-proc-api",
+    "level4": "oracle-hcm-sys-api",
+    "person": "oracle-hcm-sys-api",
+    "kpi": 50
+  }
 ]
