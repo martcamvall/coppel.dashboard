@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "description": "Zoomable, collapsable tree by David Bacci: https://www.linkedin.com/in/davbacci/",
+  "description": "vegaTreeAppAnypoint",
   "width": {"signal": "1400"},
   "height": {"signal": "900"},
   "background": "#f5f5f5",
