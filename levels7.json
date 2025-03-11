@@ -1,26 +1,20 @@
 [
     {
-    "level1": "Solución en SF",
-    "person": "Esperanto",
+    "level1": "Solución SF",
+    "person": "Solución SF",
     "kpi": 50
   },
   {
-    "level1": "Solución en SF",
-    "level2": "En APIGEE",
-    "person": "En APIGEE",
+    "level1": "Solución SF",
+    "level2": "Consumir GCP",
+    "person": "Consumir GCP",
     "kpi": 50
   },
   {
-    "level1": "Solución en SF",
-    "level3": "Consume GCP",
-    "person": "Consume GCP",
+    "level1": "Solución SF",
+    "level2": "Consumir GCP",
+    "level3": "Implemantada en APIGEE",
+    "person": "Implemantada en APIGEE",
     "kpi": 50
-  },
-  {
-    "level1": "Esperanto",
-	"level3": "Consume GCP",
-    "level4": "Implementar en APIGEE",
-    "person": "Implementar en APIGEE",
-    "kpi": 50
-	}
+  }
 ]
