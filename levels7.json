@@ -1,41 +1,41 @@
 [
     {
-    "level1": "Solución SF",
-    "person": "Solución SF",
+    "level1": "Solución SF?",
+    "person": "Solución Implementada en SF?",
     "kpi": 50
   },
   {
-    "level1": "Solución SF",
-    "level2": "Implemantada en APIGEE",
-    "person": "Implemantada en APIGEE",
+    "level1": "Solución SF?",
+    "level2": "Implemantada en APIGEE?",
+    "person": "Debe ser Implemantada en APIGEE",
     "kpi": 50
   },
   {
-    "level1": "Solución SF",
+    "level1": "Solución SF?",
+    "level2": "Consume GCP?",
+    "person": "Consume GKE o Run?",
+    "kpi": 50
+  },
+  {
+    "level1": "Solución SF?",
+    "level2": "Consume GCP?",
+    "level3": "Implemantada en APIGEE?",
+    "person": "Debe ser Implemantada en APIGEE",
+    "kpi": 50
+  },
+  {
+    "level1": "Solución SF?",
     "level2": "Consumir GCP",
-    "person": "Consumir GCP",
+    "level3": "Consume MuleApps?",
+    "person": "Consume MuleApps?",
     "kpi": 50
   },
   {
-    "level1": "Solución SF",
-    "level2": "Consumir GCP",
-    "level3": "Implemantada en APIGEE",
-    "person": "Implemantada en APIGEE",
-    "kpi": 50
-  },
-  {
-    "level1": "Solución SF",
-    "level2": "Consumir GCP",
-    "level3": "Consumir MuleApps",
-    "person": "Consumir MuleApps",
-    "kpi": 50
-  },
-  {
-    "level1": "Solución SF",
-    "level2": "Consumir GCP",
-    "level3": "Consumir MuleApps",
+    "level1": "Solución SF?",
+    "level2": "Consume GCP?",
+    "level3": "Consumie MuleApps?",
 	"level4": "Implemantada Mulesoft",
-    "person": "Implemantada Mulesoft",
+    "person": "Debe ser Implemantada Mulesoft",
     "kpi": 50
   }
 ]
