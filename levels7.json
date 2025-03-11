@@ -6,6 +6,12 @@
   },
   {
     "level1": "Solución SF",
+    "level2": "Implemantada en APIGEE",
+    "person": "Implemantada en APIGEE",
+    "kpi": 50
+  },
+  {
+    "level1": "Solución SF",
     "level2": "Consumir GCP",
     "person": "Consumir GCP",
     "kpi": 50
@@ -15,6 +21,21 @@
     "level2": "Consumir GCP",
     "level3": "Implemantada en APIGEE",
     "person": "Implemantada en APIGEE",
+    "kpi": 50
+  },
+  {
+    "level1": "Solución SF",
+    "level2": "Consumir GCP",
+    "level3": "Consumir MuleApps",
+    "person": "Consumir MuleApps",
+    "kpi": 50
+  },
+  {
+    "level1": "Solución SF",
+    "level2": "Consumir GCP",
+    "level3": "Consumir MuleApps",
+	"level4": "Implemantada Mulesoft",
+    "person": "Implemantada Mulesoft",
     "kpi": 50
   }
 ]
