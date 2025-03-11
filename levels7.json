@@ -1,0 +1,26 @@
+[
+    {
+    "level1": "Solución en SF",
+    "person": "Esperanto",
+    "kpi": 50
+  },
+  {
+    "level1": "Solución en SF",
+    "level2": "En APIGEE",
+    "person": "En APIGEE",
+    "kpi": 50
+  },
+  {
+    "level1": "Solución en SF",
+    "level3": "Consume GCP",
+    "person": "Consume GCP",
+    "kpi": 50
+  },
+  {
+    "level1": "Esperanto",
+	"level3": "Consume GCP",
+    "level4": "Implementar en APIGEE",
+    "person": "Implementar en APIGEE",
+    "kpi": 50
+	}
+]
