@@ -6,27 +6,27 @@
   },
   {
     "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestara varios dominios?",
+    "level2": "¿Orquestará varios dominios?",
     "person": "Si",
     "kpi": 50
   },
   {
     "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestara varios dominios?",
+    "level2": "¿Orquestará varios dominios?",
     "level3": "Implementada como Business en Mulesoft",
     "person": "Si",
     "kpi": 50
   },
   {
     "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestara varios dominios?",
+    "level2": "¿Orquestará varios dominios?",
     "level3": "¿Consume GKE o Run?",
     "person": "No",
     "kpi": 50
   },
   {
     "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestara varios dominios?",
+    "level2": "¿Orquestará varios dominios?",
     "level3": "¿Consume GKE o Run?",
     "level4": "Implementarse como Dominio en GKE o Run",
     "person": "Si",
@@ -34,7 +34,7 @@
   },
   {
     "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestara varios dominios?",
+    "level2": "¿Orquestará varios dominios?",
     "level3": "¿Consume GKE o Run?",
     "level4": "Implementarse como Domain en Mulesoft",
     "person": "No",
