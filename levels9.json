@@ -1,61 +1,31 @@
 [
   {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "person": "¿Se Diseñara con BIAN o ARTS?",
+    "level1": "¿Sistemas proveedores sobre GCP?",
+    "person": "¿Sistemas proveedores sobre GCP?",
     "kpi": 50
   },
   {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestará varios dominios?",
+    "level1": "¿Sistemas proveedores sobre GCP?",
+    "level2": "Implementarse en GKE o Run",
     "person": "Si",
     "kpi": 50
   },
   {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestará varios dominios?",
-    "level3": "Implementada como Business en Mulesoft",
-    "person": "Si",
-    "kpi": 50
-  },
-  {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestará varios dominios?",
-    "level3": "¿Consume GKE o Run?",
+    "level1": "¿Sistemas proveedores sobre GCP?",
+    "level2": "¿Para servicios Financieros?",
     "person": "No",
     "kpi": 50
   },
   {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestará varios dominios?",
-    "level3": "¿Consume GKE o Run?",
-    "level4": "Implementarse como Dominio en GKE o Run",
+    "level1": "¿Sistemas proveedores sobre GCP?",
+    "level2": "¿Para servicios Financieros?",
+    "level3": "Implementarse en EKS o Lambda",
     "person": "Si",
     "kpi": 50
   },
   {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Orquestará varios dominios?",
-    "level3": "¿Consume GKE o Run?",
-    "level4": "Implementarse como Domain en Mulesoft",
-    "person": "No",
-    "kpi": 50
-  },
-  {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Sistemas proveedores en GCP?",
-    "person": "No",
-    "kpi": 50
-  },
-  {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Sistemas proveedores en GCP?",
-    "level3": "Implementarse en GKE o Run",
-    "person": "Si",
-    "kpi": 50
-  },
-  {
-    "level1": "¿Se Diseñara con BIAN o ARTS?",
-    "level2": "¿Sistemas proveedores en GCP?",
+    "level1": "¿Sistemas proveedores sobre GCP?",
+    "level2": "¿Para servicios Financieros?",
     "level3": "Implementarse en Mulesoft",
     "person": "No",
     "kpi": 50
