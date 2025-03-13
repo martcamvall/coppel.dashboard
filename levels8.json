@@ -1,62 +1,62 @@
 [
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
-    "person": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
+    "person": "¿Se Diseñara con BIAN o ARTS?",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
     "level2": "Orquestara varios dominios",
     "person": "Si",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
     "level2": "Orquestara varios dominios",
-    "level3": "Debe ser implementada de tipo Business en Mulesoft",
+    "level3": "Implementada como Business en Mulesoft",
     "person": "si",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
     "level2": "Orquestara varios dominios",
-    "level3": "Los sistemas proveedores están sobre GCP.",
+    "level3": "¿Consume GKE o Run?",
     "person": "No",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
     "level2": "Orquestara varios dominios",
-    "level3": "Los sistemas proveedores están sobre GCP.",
-    "level4": "Debe ser implementada de tipo Domain en GKE o Cloud Run",
+    "level3": "¿Consume GKE o Run?",
+    "level4": "Implementarse como Dominio en GKE o Run",
     "person": "Si",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
     "level2": "Orquestara varios dominios",
-    "level3": "Los sistemas proveedores están sobre GCP.",
-    "level4": "Debe ser implementada de tipo Domain en Mulesoft",
+    "level3": "¿Consume GKE o Run?",
+    "level4": "Implementarse como Domain en Mulesoft",
     "person": "No",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
-    "level2": "Los sistemas proveedores están sobre GCP.",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
+    "level2": "Sistemas proveedores em GCP",
     "person": "No",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
-    "level2": "Los sistemas proveedores están sobre GCP.",
-    "level3": "Debe ser implementada en GKE o Cloud Run",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
+    "level2": "Sistemas proveedores em GCP",
+    "level3": "Implementarse en GKE o Run",
     "person": "Si",
     "kpi": 50
   },
   {
-    "level1": "La capa de proceso se diseñara con algún modelo de industria (BIAN ARTS)",
-    "level2": "Los sistemas proveedores están sobre GCP.",
-    "level3": "Debe implementarse en Mulesoft",
+    "level1": "¿Se Diseñara con BIAN o ARTS?",
+    "level2": "Sistemas proveedores em GCP",
+    "level3": "Implementarse en Mulesoft",
     "person": "No",
     "kpi": 50
   }
