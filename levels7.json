@@ -1,41 +1,19 @@
 [
     {
-    "level1": "¿Solución Implementada para SF?",
-    "person": "¿Solución Implementada para SF?",
+    "level1": "¿Consume capas inferiores en GCP?",
+    "person": "¿Consume capas inferiores en GCP?",
     "kpi": 50
   },
   {
-    "level1": "¿Solución Implementada para SF?",
+    "level1": "¿Consume capas inferiores en GCP?",
     "level2": "Implemantarse en APIGEE",
     "person": "Si",
     "kpi": 50
   },
   {
-    "level1": "¿Solución Implementada para SF?",
-    "level2": "¿Consume GKE o Run?",
+    "level1": "¿Consume capas inferiores en GCP?",
+    "level2": "Implemantarse en Mulesoft",
     "person": "No",
-    "kpi": 50
-  },
-  {
-    "level1": "¿Solución Implementada para SF?",
-    "level2": "¿Consume GKE o Run?",
-    "level3": "Implemantarse en APIGEE",
-    "person": "Si",
-    "kpi": 50
-  },
-  {
-    "level1": "¿Solución Implementada para SF?",
-    "level2": "¿Consume GKE o Run?",
-    "level3": "¿Consume APIs en Mulesoft?",
-    "person": "No",
-    "kpi": 50
-  },
-  {
-    "level1": "¿Solución Implementada para SF?",
-    "level2": "¿Consume GKE o Run?",
-    "level3": "¿Consume APIs en Mulesoft?",
-    "level4": "Implemantarse en Mulesoft",
-    "person": "Si",
     "kpi": 50
   }
 ]
